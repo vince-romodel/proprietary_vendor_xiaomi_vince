@@ -624,7 +624,4 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     PowerOffAlarm \
-    TimeService \
-    WfdCommon \
-    QPerformance \
-    UxPerformance
+    TimeService
